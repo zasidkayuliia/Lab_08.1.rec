@@ -1,0 +1,11 @@
+﻿  pch.cpp
+  UnitTest.cpp
+C:\Users\Dara\source\repos\Lab_8.1.rec\UnitTest\UnitTest.cpp(1,9): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  (компиляция исходного файла "/UnitTest.cpp")
+      C:\Users\Dara\source\repos\Lab_8.1.rec\UnitTest\UnitTest.cpp(1,9):
+      Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+      C:\Users\Dara\source\repos\Lab_8.1.rec\UnitTest\UnitTest.cpp(2,1):
+      использование предварительно скомпилированного заголовка
+  
+     Создается библиотека C:\Users\Dara\source\repos\Lab_8.1.rec\x64\Debug\UnitTest.lib и объект C:\Users\Dara\source\repos\Lab_8.1.rec\x64\Debug\UnitTest.exp
+  UnitTest.vcxproj -> C:\Users\Dara\source\repos\Lab_8.1.rec\x64\Debug\UnitTest.dll
